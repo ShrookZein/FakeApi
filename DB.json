@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Nada",
       "email": "nada20@gmail.com",
       "phone": "0123456785",
@@ -14,7 +14,7 @@
       "role": "admin"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Shrook",
       "email": "shrook20@gmail.com",
       "phone": "0123456785",
@@ -27,7 +27,7 @@
       "role": "user"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Dalia",
       "email": "dalia20@gmail.com",
       "phone": "0123456785",
@@ -40,7 +40,7 @@
       "role": "user"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Sohila",
       "email": "sohila20@gmail.com",
       "phone": "0123456785",
@@ -53,110 +53,166 @@
       "role": "user"
     }
   ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "sssssssss",
+      "description": "sssssssssss",
+      "path": ""
+    },
+    {
+      "id": "2",
+      "name": "sssssssss",
+      "description": "sssssssssss",
+      "path": ""
+    },
+    {
+      "id": "3",
+      "name": "sssssssss",
+      "description": "sssssssssss",
+      "path": ""
+    },
+    {
+      "id": "4",
+      "name": "sssssssss",
+      "description": "sssssssssss",
+      "path": ""
+    }
+  ],
   "products": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Clocks",
       "description": "hgfdsasdfghjjhgfdsdfgmnbvc",
       "paths": {
         "img": "",
         "icon": ""
       },
-      "color":["red","blue","green","gray"],
+      "color": [
+        "red",
+        "blue",
+        "green",
+        "gray"
+      ],
       "price": 100,
-      "rate": 4
+      "rate": 4,
+      "categoryId": "1"
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Wall prints",
       "description": "hgfdsasdfghjjhgfdsdfgmnbvc",
       "paths": {
         "img": "",
         "icon": ""
       },
-      "color":["red","blue","green","gray"],
+      "color": [
+        "red",
+        "blue",
+        "green",
+        "gray"
+      ],
       "price": 100,
-      "rate": 4
+      "rate": 4,
+      "categoryId": "1"
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Wall prints",
       "description": "hgfdsasdfghjjhgfdsdfgmnbvc",
       "paths": {
         "img": "",
         "icon": ""
       },
-      "color":["red","blue","green","gray"],
+      "color": [
+        "red",
+        "blue",
+        "green",
+        "gray"
+      ],
       "price": 100,
-      "rate": 4
+      "rate": 4,
+      "categoryId": "1"
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Wall prints",
       "description": "hgfdsasdfghjjhgfdsdfgmnbvc",
       "paths": {
         "img": "",
         "icon": ""
       },
-      "color":["red","blue","green","gray"],
+      "color": [
+        "red",
+        "blue",
+        "green",
+        "gray"
+      ],
       "price": 100,
-      "rate": 4
+      "rate": 4,
+      "categoryId": "1"
     },
     {
-      "id": 5,
+      "id": "5",
       "name": "Wall prints",
       "description": "hgfdsasdfghjjhgfdsdfgmnbvc",
       "paths": {
         "img": "",
         "icon": ""
       },
-      "color":["red","blue","green","gray"],
+      "color": [
+        "red",
+        "blue",
+        "green",
+        "gray"
+      ],
       "price": 100,
-      "rate": 4
+      "rate": 4,
+      "categoryId": "1"
     }
   ],
-  "comments":[
+  "comments": [
     {
-      "id":1,
-      "text":"ddddddddfffff",
-      "userId":"1",
-      "productId":"1"
+      "id": "1",
+      "text": "ddddddddfffff",
+      "userId": "1",
+      "productId": "1"
     },
     {
-      "id":2,
-      "text":"ddddddddfffff",
-      "userId":"1",
-      "productId":"1"
+      "id": "2",
+      "text": "ddddddddfffff",
+      "userId": "1",
+      "productId": "1"
     },
     {
-      "id":3,
-      "text":"ddddddddfffff",
-      "userId":"1",
-      "productId":"1"
+      "id": "3",
+      "text": "ddddddddfffff",
+      "userId": "1",
+      "productId": "1"
     },
     {
-      "id":4,
-      "text":"ddddddddfffff",
-      "userId":"1",
-      "productId":"1"
+      "id": "4",
+      "text": "ddddddddfffff",
+      "userId": "1",
+      "productId": "1"
     }
   ],
   "orders": [
     {
-      "id": 1,
-      "Quantity":3,
+      "id": "1",
+      "Quantity": 3,
       "productId": "1",
       "userId": "1"
     },
     {
-      "id": 2,
-      "Quantity":2,
+      "id": "2",
+      "Quantity": 2,
       "productId": "1",
       "userId": "1"
     },
     {
-      "id": 3,
-      "Quantity":3,
+      "id": "3",
+      "Quantity": 3,
       "productId": "1",
       "userid": "1"
     }
