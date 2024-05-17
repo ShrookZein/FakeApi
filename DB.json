@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nada",
+      "email": "nada20@gmail.com",
+      "phone": "0123456785",
+      "add": {
+        "city": "Assiut",
+        "street": "6 October",
+        "country": "Egypt"
+      },
+      "password": "12345678",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Shrook",
+      "email": "shrook20@gmail.com",
+      "phone": "0123456785",
+      "add": {
+        "city": "Assiut",
+        "street": "6 October",
+        "country": "Egypt"
+      },
+      "password": "12345678",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "name": "Dalia",
+      "email": "dalia20@gmail.com",
+      "phone": "0123456785",
+      "add": {
+        "city": "Assiut",
+        "street": "6 October",
+        "country": "Egypt"
+      },
+      "password": "12345678",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "name": "Sohila",
+      "email": "sohila20@gmail.com",
+      "phone": "0123456785",
+      "add": {
+        "city": "Assiut",
+        "street": "6 October",
+        "country": "Egypt"
+      },
+      "password": "12345678",
+      "role": "user"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Clocks",
+      "description": "hgfdsasdfghjjhgfdsdfgmnbvc",
+      "paths": {
+        "img": "",
+        "icon": ""
+      },
+      "color":["red","blue","green","gray"],
+      "price": 100,
+      "rate": 4
+    },
+    {
+      "id": 2,
+      "name": "Wall prints",
+      "description": "hgfdsasdfghjjhgfdsdfgmnbvc",
+      "paths": {
+        "img": "",
+        "icon": ""
+      },
+      "color":["red","blue","green","gray"],
+      "price": 100,
+      "rate": 4
+    },
+    {
+      "id": 3,
+      "name": "Wall prints",
+      "description": "hgfdsasdfghjjhgfdsdfgmnbvc",
+      "paths": {
+        "img": "",
+        "icon": ""
+      },
+      "color":["red","blue","green","gray"],
+      "price": 100,
+      "rate": 4
+    },
+    {
+      "id": 4,
+      "name": "Wall prints",
+      "description": "hgfdsasdfghjjhgfdsdfgmnbvc",
+      "paths": {
+        "img": "",
+        "icon": ""
+      },
+      "color":["red","blue","green","gray"],
+      "price": 100,
+      "rate": 4
+    },
+    {
+      "id": 5,
+      "name": "Wall prints",
+      "description": "hgfdsasdfghjjhgfdsdfgmnbvc",
+      "paths": {
+        "img": "",
+        "icon": ""
+      },
+      "color":["red","blue","green","gray"],
+      "price": 100,
+      "rate": 4
+    }
+  ],
+  "comments":[
+    {
+      "id":1,
+      "text":"ddddddddfffff",
+      "userId":"1",
+      "productId":"1"
+    },
+    {
+      "id":2,
+      "text":"ddddddddfffff",
+      "userId":"1",
+      "productId":"1"
+    },
+    {
+      "id":3,
+      "text":"ddddddddfffff",
+      "userId":"1",
+      "productId":"1"
+    },
+    {
+      "id":4,
+      "text":"ddddddddfffff",
+      "userId":"1",
+      "productId":"1"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "Quantity":3,
+      "productId": "1",
+      "userId": "1"
+    },
+    {
+      "id": 2,
+      "Quantity":2,
+      "productId": "1",
+      "userId": "1"
+    },
+    {
+      "id": 3,
+      "Quantity":3,
+      "productId": "1",
+      "userid": "1"
+    }
+  ]
+}

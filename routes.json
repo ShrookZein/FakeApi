@@ -1,0 +1,3 @@
+{
+    "/users/:id/orders": "/posts?userId=:id"
+}
