@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "serve-json":"json-server --watch DB.json"
+    "serve-json": "json-server --watch DB.json --routes routes.json"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^1.0.0-beta.0"
+    "json-server": "^0.16.3"
   }
 }
