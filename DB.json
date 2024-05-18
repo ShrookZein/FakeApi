@@ -215,6 +215,89 @@
       "Quantity": 3,
       "productId": "1",
       "userid": "1"
+    },
+    {
+      "id": "4",
+      "Quantity": 3,
+      "productId": "2",
+      "userid": "2"
+    },
+    {
+      "id": "5",
+      "Quantity": 3,
+      "productId": "3",
+      "userid": "2"
+    },
+    {
+      "id": "6",
+      "Quantity": 3,
+      "productId": "1",
+      "userid": "2"
+    },
+    {
+      "id": "7",
+      "Quantity": 3,
+      "productId": "2",
+      "userid": "3"
+    },
+    {
+      "id": "8",
+      "Quantity": 3,
+      "productId": "1",
+      "userid": "4"
+    },
+    {
+      "id": "9",
+      "Quantity": 3,
+      "productId": "4",
+      "userid": "5"
+    }
+  ],
+  "favourites": [
+    {
+      "id": "1",
+      "productId": "1",
+      "userId": "1"
+    },
+    {
+      "id": "2",
+      "productId": "2",
+      "userId": "1"
+    },
+    {
+      "id": "3",
+      "productId": "3",
+      "userId": "1"
+    },
+    {
+      "id": "4",
+      "productId": "1",
+      "userId": "2"
+    },
+    {
+      "id": "5",
+      "productId": "2",
+      "userId": "5"
+    },
+    {
+      "id": "6",
+      "productId": "1",
+      "userId": "4"
+    },
+    {
+      "id": "7",
+      "productId": "1",
+      "userId": "3"
+    },
+    {
+      "id": "8",
+      "productId": "1",
+      "userId": "2"
+    },
+    {
+      "id": "07f9",
+      "productId": "4",
+      "userId": "2"
     }
   ]
 }
